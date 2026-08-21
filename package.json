@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-sb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "description": "Nezha Agent bootstrap with self-installing yauzl",
+  "engines": { "node": ">=14" }
+}
